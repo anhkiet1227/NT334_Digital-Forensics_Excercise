@@ -1,0 +1,17 @@
+Các loại tội phạm máy tính
+
+Các bước chính của Forensics Investigations
+
+Các role của investigator
+
+Các role của digital evidence
+
+Digital forensics investigation methodology
+
+Chain of custody: What? How?
+
+Steganography: định nghĩa, các loại, các công cụ, cấu trúc file -> hỏi file gì?
+
+Quá trình điều tra cụ thê: memory forensic, email forensic (học lệnh!!!!)
+
+Propose: đề xuất vấn đề -> giải quyết (vấn đề thách thức, giải pháp hợp lý) 
